@@ -49,4 +49,4 @@ Este projeto tem como objetivo portar o jogo **D.O.M. (Doom On Microcontrollers)
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/AllanCristiano/Projeto-DOM-ESP32.git
+   git clone https://github.com/AllanCristiano/DOOMESP32.git
